@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # git-rails5
+# git-rails6
